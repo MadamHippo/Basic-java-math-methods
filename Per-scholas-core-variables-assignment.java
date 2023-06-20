@@ -82,7 +82,7 @@ public class App {
             System.out.println(division_total2);
             // sout = system out shortcut
 
-            // casting result to integer...
+            // casting the result to integer...
             int division_total_int;
             division_total_int = (int)division_total2;
             System.out.println(division_total_int);
