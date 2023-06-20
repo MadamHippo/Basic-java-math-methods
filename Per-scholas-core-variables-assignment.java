@@ -86,7 +86,7 @@ public class App {
             int division_total_int;
             division_total_int = (int)division_total2;
             System.out.println(division_total_int);
-            // the newly casted double (2.0) is now just int 2.
+            // The newly casted double (2.0) is now just int 2.
 
 
             // step #6
