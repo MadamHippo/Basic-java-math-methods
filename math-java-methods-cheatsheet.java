@@ -48,3 +48,8 @@ int c = (int)(Math.random() * 10) + 1;
 // If we wanted int value between 0 and 9 we need to add int casting:
 // Random int value between 0 and 9
 int b = (int)(Math.random() * 10);
+
+
+// the conditional OR operator is represented by ||, not |.
+
+
